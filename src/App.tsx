@@ -1,6 +1,5 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes,} from 'react-router-dom';
-import './App.css';
 import { About } from './components/pages/About/About';
 import { Top } from './components/pages/Top/Top';
 import ReactGA4 from "react-ga4";
